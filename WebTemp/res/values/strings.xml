@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">WebTemp</string>
+    <string name="start">Press button to get temperature</string>
+    <string name="button_check_temp">Get Temperature</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">WebTemp</string>
+
+</resources>
